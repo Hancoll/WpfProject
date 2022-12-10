@@ -1,0 +1,6 @@
+C:\Users\Gleb\Desktop\Ajito\Ajito.Models\bin\Debug\Ajito.Models.dll
+C:\Users\Gleb\Desktop\Ajito\Ajito.Models\bin\Debug\Ajito.Models.pdb
+C:\Users\Gleb\Desktop\Ajito\Ajito.Models\obj\Debug\Ajito.Models.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\Ajito\Ajito.Models\obj\Debug\Ajito.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\Ajito\Ajito.Models\obj\Debug\Ajito.Models.dll
+C:\Users\Gleb\Desktop\Ajito\Ajito.Models\obj\Debug\Ajito.Models.pdb
